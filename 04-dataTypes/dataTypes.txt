@@ -1,0 +1,17 @@
+string = sequence of characters. Must be in quotes or backticks
+number = integers as well as floating-point numbers
+boolean = logical entity / true or false
+null = intentional absence of any object value
+undefined = a variable that has not yet been defined / assigned
+symbol = Built in object whose constructor returns a unique symbol
+BigInt = Numbers that are greater than the "Number" type can handle
+
+/*Reference Types (Objects)*/
+Reference types or objects are non-primitive values and when assigned to a variable, the variable is given a regerence to that value
+
+Object literals, array and functions are all reference types
+
+/*Static Typing vs Dynamic Types*/
+JavaScript is a dynamically-typed language. This means we do not explicitly define the types for our variables. Many other languages are statically-typed such as C, C++, and Java.
+
+TypeScript is a superset of JavaScript, which allows static-typing. This can make your code more verbose and less prone to errors. TypeScript may be something you want to look into later on

@@ -1,0 +1,3 @@
+Primitive types: Stored directly in the "stack", where it is accessed from
+
+Reference types: Stored in the heap and accessed by Reference
